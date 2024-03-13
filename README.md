@@ -2,7 +2,7 @@
 
 - 취미로 각종 실생활에 편리한 자동화 코드 모음
 
-1.001_DailyNewSearching.py
+## 1.001_DailyNewSearching.py
 ```
 <사용 패키지 버전 목록>
 datetime: 표준 라이브러리, 별도의 버전 정보 없음
